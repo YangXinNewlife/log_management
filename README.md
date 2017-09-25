@@ -6,5 +6,4 @@ update date : 2017-09-25
 python log_management_service.py
 
 ## Reference
-1. https://github.com/YangXinNewlife/DataX
-2. https://docs.python.org
+1. https://docs.python.org
